@@ -1,0 +1,33 @@
+.buttonBase {
+    border-radius: 50px;
+    width: 45px;
+    height: 45px;
+    background-color: var(--gris-oscuro);
+    margin: 15px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    border-color: aqua;
+}
+
+.bigButtonStyle {
+    border-radius: 50px;
+    height: 45px;
+    width: 120px;
+    margin: 15px;
+    font-size: 30px;
+    text-align: center;
+    color: 'white';
+    padding: 10px 15px 40px 15px;
+    background-color: var(--violeta)
+}
+
+.equalButton {
+    background-color: var(--violeta);
+    border-radius: 50px;
+    width: 45px;
+    height: 45px;
+    margin: 15px;
+    text-align: center;
+    margin-bottom: 50px;
+}

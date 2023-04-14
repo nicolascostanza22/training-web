@@ -1,0 +1,14 @@
+/* import Colors from '../../Colors'; */
+/* hacer colores con variables */
+
+.KeyboardContainer {
+    display: 'flex';
+    flex-direction: 'row';
+    flex-wrap: 'wrap';
+    align-items: 'center';
+    justify-content: 'center';
+    /* background-color: Colors.ligthGray; */
+    margin-bottom: 20px;
+    width: '100%';
+    padding-bottom: 20;
+}

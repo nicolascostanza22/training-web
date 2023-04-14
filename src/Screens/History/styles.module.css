@@ -1,0 +1,32 @@
+/* import Colors from '../../Colors'; */
+
+.container {
+    flex: 1;
+    /* background-color: Colors.ligthGray; */
+}
+
+.title {
+    font-size: 30px;
+    text-align: 'center';
+    /* color: Colors.white; */
+    color: 'white';
+    padding: 10px 0;
+}
+
+.backButton {
+    /* background-color: Colors.violet; */
+    height: 40;
+    width: '80%';
+    display: 'flex';
+    justify-content: 'center';
+    align-items: 'center';
+    border-radius: 50px;
+    margin: 0 10% 10px;
+    color: 'white';
+    font-size: 18px;
+}
+
+
+.tableContainer {
+    padding: 10px 0;
+}
